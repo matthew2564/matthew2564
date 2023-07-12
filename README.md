@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matthew2564&label=Profile%20views&color=0e75b6&style=flat" alt="matthew2564" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matthew2564&theme=discord&no-frame=true&no-bg=true&column=3&margin-w=15&margin-h=15" alt="matthew2564" /></a> </p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -27,4 +31,7 @@ Here are some ideas to get you started:
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40" title="AWS"/> </a> <a target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="100" height="40" title="Java"/> </a> <a  target="_blank" rel="noreferrer">
 
-![matthew2564's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthew2564&show_icons=true&theme=radical)
+<h3 align="left">Stats:</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=matthew2564&show_icons=true&theme=radical" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matthew2564&show_icons=true&theme=dark&locale=en&layout=compact" alt="matthew2564" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matthew2564&theme=dark" alt="matthew2564" /></p>
